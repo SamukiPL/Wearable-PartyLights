@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Party Light</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="epileptic_warning"><b>WARNING</b>: This app contains flashing lights, and may potentially trigger seizures for people with photosensitive epilepsy. <b>User discretion is advised.</b></string>
+    <string name="permission_rationale">This app uses microphone to listen to your surroundings. It will analyze music or sounds to flash with colors.</string>
+    <string name="accept">I understood</string>
+</resources>
